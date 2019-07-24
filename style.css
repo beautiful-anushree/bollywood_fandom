@@ -1,0 +1,15 @@
+h1{
+  color: black;
+  font-size:120px;
+}
+
+
+body{
+  font-family: 'Bad Script', cursive;
+  font-size: 30px;
+    background: url("https://66.media.tumblr.com/0ac985919a2a52b2c631682a66e4cdde/tumblr_pp8gmpnl3E1uzwgsuo1_400.gif");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+}
